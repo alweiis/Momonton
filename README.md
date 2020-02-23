@@ -1,6 +1,4 @@
-# VanillaJS
-
-Momonton
+# Momonton
 - - -
 A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS
 
