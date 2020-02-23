@@ -11,4 +11,4 @@ A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS
 - [X] **Weather**   
 
 ## Try it out
-https://jsnow0819.github.io/VanillaJS/
+https://jsnow0819.github.io/Momonton/
