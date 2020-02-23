@@ -1,5 +1,4 @@
 # Momonton
-- - -
 A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS
 
 [Momentumlink]: https://momentumdash.com/ "Go Momentum"
