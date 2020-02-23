@@ -9,11 +9,10 @@ A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS
 
 Features
 - - -
-- [ ] Mercury
-[X] **Clock**   
-[X] **To Do List**   
-[X] **Daily Photo**   
-[X] **Weather**   
+- [X] **Clock**   
+- [X] **To Do List**   
+- [X] **Daily Photo**   
+- [X] **Weather**   
 
 Try it out
 - - -
