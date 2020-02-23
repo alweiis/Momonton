@@ -7,10 +7,10 @@ A clone of the productivity chrome app Momemtum on Vanilla JS
 
 Features
 - - -
-**Clock**
-**To Do List**
-**Daily Photo**
-**Weather**
+**Clock**   
+**To Do List**   
+**Daily Photo**   
+**Weather**   
 
 Try it out
 - - -
