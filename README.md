@@ -9,7 +9,7 @@ A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS
 
 Features
 - - -
-**Clock**   
+# [checkbox:checked] **Clock**   
 **To Do List**   
 **Daily Photo**   
 **Weather**   
