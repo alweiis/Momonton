@@ -1,5 +1,5 @@
 # Momonton
-A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS
+A clone of the productivity chrome app [Momentum][Momentumlink] on Vanilla JS.   
 This was made by referring to the [Nomad Coders][Nomad Coders link] channel on YouTube.
 
 [Momentumlink]: https://momentumdash.com/ "Go Momentum"
