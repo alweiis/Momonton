@@ -8,7 +8,6 @@ This was made by referring to the [Nomad Coders](https://www.youtube.com/channel
 ## Features
 - [X] **Clock**   
 - [X] **To Do List**   
-- [X] **Fill canvas with color**   
 - [X] **Daily Photo**   
 - [X] **Weather**   
 
